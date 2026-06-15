@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="3; url=https://rb.gy/9mm2qv">
+    <title>Redirection...</title>
+</head>
+<body>
+    <p>Ghadir nredirekti lik f 3 seconds...</p>
+    <p>Ila ma mchatch, <a href="https://rb.gy/9mm2qv">clique hna</a>.</p>
+</body>
+</html>
